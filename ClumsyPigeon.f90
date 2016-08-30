@@ -1017,7 +1017,7 @@ if (input .eq. "human") then
 else if (input .eq. "uci") then
 
   write(*,*) "id Clumsy Pigeon"
-  write(*,*) "author Daniele Scarinci"
+  write(*,*) "author TrinTragula"
   write(*,*) "uciok"
 
   do while(input.ne."exit")
