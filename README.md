@@ -1,6 +1,6 @@
 # ClumsyPigeon
 
-![alt tag](http://i.telegraph.co.uk/multimedia/archive/01435/pigeon_1435675c.jpg)
+![alt tag](https://i.ibb.co/kmhxSpt/piccione.jpg)
 
 
 A chess engine written in Fortran90 by a great estimator of chess and pigeons, with clumsy and unreadable code (therefore its name).
